@@ -1,6 +1,6 @@
 {
   "name": "tracking-url-generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate tracking URLs for packages shipped with common carriers.",
   "main": "index.js",
   "scripts": {
