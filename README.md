@@ -15,7 +15,7 @@ console.log(anotherTrackingURL);
 false // Carrier isn't supported in this package (yet)
 ```
 
-Suported carriers:
+Supported carriers:
 * USPS
 * UPS
 * FedEx
