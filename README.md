@@ -15,3 +15,12 @@ console.log(anotherTrackingURL);
 false // Carrier isn't supported in this package (yet)
 ```
 
+Suported carriers:
+* USPS
+* UPS
+* FedEx
+* LaserShip
+* DHL US
+* DHL Global
+* OnTrac
+* Canada Post
